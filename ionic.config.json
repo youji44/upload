@@ -1,0 +1,8 @@
+{
+  "name": "upload",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "99254f3b"
+}
